@@ -21,7 +21,7 @@ requirements:
 ● The application should treat the neo_reference_id as PII storing only the last 4
 
 
-To run this, cd into desired directory and run "git clone <repository_url>"
+To run this, cd into desired directory and run "git clone https://github.com/inolo/FundThatFlip.git"
 
 You will need to have python installed on your computer. 
 
